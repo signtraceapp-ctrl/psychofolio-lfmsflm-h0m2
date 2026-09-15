@@ -1,13 +1,12 @@
 {
   "site": {
-    "name": "Ad Soyad",
+    "name": "lfmsflm",
     "title": "Klinik Psikolog",
     "email": "bilgi@klinik.com",
     "address": "Nişantaşı, İstanbul",
     "copyright": "Tüm hakları saklıdır."
   },
   "home": {
-    "badge": "SERENE",
     "headline": "Zihnin sessizliğinde,",
     "headlineAccent": "kendi yolunuzu",
     "headlineSuffix": "bulun.",
@@ -15,14 +14,30 @@
     "cta": "Randevu Talep Et",
     "cardTitle": "Sakinlik & Denge",
     "cardSubtitle": "Bütünsel Terapi Yaklaşımı",
-    "quote": "Dışarı bakan rüya görür, içeri bakan uyanır.",
-    "quoteAuthor": "Carl Gustav Jung"
+    "quote": "Terapi, kendinizle tanışma yolculuğunun en cesur adımıdır.",
+    "quoteAuthor": "lfmsflm"
   },
   "metrics": [
-    { "val": "12+", "unit": "Yıl", "label": "Klinik Deneyim" },
-    { "val": "4500+", "unit": "", "label": "Tamamlanmış Seans" },
-    { "val": "8", "unit": "+", "label": "Akademik Yayın" },
-    { "val": "%100", "unit": "", "label": "Etik Taahhüt" }
+    {
+      "val": "12+",
+      "unit": "Yıl",
+      "label": "Klinik Deneyim"
+    },
+    {
+      "val": "4500+",
+      "unit": "",
+      "label": "Tamamlanmış Seans"
+    },
+    {
+      "val": "8",
+      "unit": "+",
+      "label": "Akademik Yayın"
+    },
+    {
+      "val": "%100",
+      "unit": "",
+      "label": "Etik Taahhüt"
+    }
   ],
   "services": [
     {
@@ -46,8 +61,7 @@
   ],
   "about": {
     "title": "Hakkımda",
-    "intro": "Klinik psikoloji yolculuğum, insanın kendisiyle barışma arayışını anlama arzusuyla başladı. 10 yılı aşkın süredir danışanlarımla güvenli bir farkındalık alanında buluşuyorum.",
-    "introSecond": "Zihinsel düğümlerin şefkatli bir eşlik etme süreciyle çözülebileceğine inanıyorum.",
+    "intro": "12 yılı aşkın klinik deneyimimle, bilimsel temelli ve bütünleşik bir terapi yaklaşımı sunuyorum.",
     "credentials": [
       {
         "year": "2014",
@@ -67,8 +81,8 @@
     ]
   },
   "approach": {
-    "title": "Terapi Yaklaşımım",
-    "intro": "Terapi, yaşamın karmaşası içinde durup kendimize bakabildiğimiz, sessiz ve yargısız bir tanıklık alanıdır.",
+    "title": "Çalışma Prensiplerim",
+    "intro": "Her danışan benzersizdir ve terapi süreci buna göre şekillenir.",
     "principles": [
       {
         "title": "Güvenli Alan",
@@ -88,20 +102,20 @@
     {
       "title": "Kaygı Bozukluklarında Bilişsel Yeniden Yapılandırma",
       "category": "Klinik",
-      "readTime": "8 dk",
-      "date": "28 Mayıs 2026"
+      "date": "28 Mayıs 2026",
+      "readTime": "8 dk"
     },
     {
       "title": "Çocuklarda Duygusal Güvenlik Alanı Oluşturmak",
       "category": "Çocuk-Ergen",
-      "readTime": "6 dk",
-      "date": "24 Temmuz 2026"
+      "date": "24 Temmuz 2026",
+      "readTime": "6 dk"
     },
     {
       "title": "EMDR ile Travma Sonrası Büyüme",
       "category": "Travma",
-      "readTime": "10 dk",
-      "date": "10 Nisan 2026"
+      "date": "10 Nisan 2026",
+      "readTime": "10 dk"
     }
   ],
   "faq": [
@@ -120,10 +134,23 @@
   ],
   "contact": {
     "title": "Randevu ve İletişim",
-    "intro": "İçsel yolculuğunuza adım atmak veya ön bilgi almak için bana yazabilirsiniz.",
-    "formName": "Adınız",
+    "intro": "İlk görüşme için randevu almak veya sorularınızı iletmek için formu kullanabilirsiniz.",
+    "formName": "Ad Soyad",
     "formEmail": "E-posta",
     "formMessage": "Mesajınız",
     "formSubmit": "Gönder"
+  },
+  "seo": {
+    "jobTitle": "Klinik Psikolog",
+    "description": "lfmsflm, Nişantaşı, İstanbul merkezli klinik psikolog.",
+    "specialties": [],
+    "credentials": [
+      "İstanbul Üniversitesi - Psikoloji Lisans (2014)",
+      "Klinik Psikoloji Yüksek Lisansı (2016)",
+      "EMDR Avrupa Akredite Uygulayıcı (2018)"
+    ],
+    "location": "Nişantaşı, İstanbul",
+    "socialLinks": [],
+    "openingHours": "Mo-Fr 09:00-18:00"
   }
 }
